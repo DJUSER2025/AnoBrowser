@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.djuser2025.twa",
+        "sha256_cert_fingerprints": ["B5:48:40:DB:51:06:77:D4:78:E5:ED:A8:08:40:86:20:9B:F1:56:CC:91:57:11:F4:A3:91:BE:D9:2F:8C:2F:6F"]
+      }
+    }]
